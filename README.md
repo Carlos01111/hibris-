@@ -4,6 +4,8 @@ Es un aplicativo web enfocado en la difusión de poesía, en el se podran encont
 
 ### ** Técnologias utilizadas **
 
-[https://es.m.wikipedia.org/wiki/Archivo:Python.svg]
-[https://copyassignment.com/wp-content/uploads/2022/06/Django-logo-474x360-1.jpg] 
+![Python](https://es.m.wikipedia.org/wiki/Archivo:Python.svg)
+![Django](https://copyassignment.com/wp-content/uploads/2022/06/Django-logo-474x360-1.jpg) 
+
+
 
